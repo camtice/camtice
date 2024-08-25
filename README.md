@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @camtice
-- 👀 I’m interested in AI Alignment, but I'm just starting.
-- 🌱 I’m currently learning the basics of LLMs, while also working in a Data Science Lab where we're looking at machine learning techniques to make high dimensional data more interpretable.
+- 👀 I'm working with Apart Research to make our capability evaluations more robust to deceptive LLMs.
 - 📫 How to reach me: cwt0019@auburn.edu
 
 <!---
